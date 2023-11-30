@@ -2,11 +2,11 @@
 
 ## Santander Bootcamp Cibersegurança
 
-## What is information security for?
+### What is information security for?
 
 Cybersecurity represents the set of digital tools and strategies that guarantee the security of a company's virtual data.
 
-## What are phishing attacks?
+### What are phishing attacks?
 
 Is an information security risk in which the malicious actor devises a lure for users to perform malicious actions. The main objective of this threat is to capture the user's attention, through manipulation techniques, and, in this way, be able to distribute attachments, in addition to malicious links.
 
